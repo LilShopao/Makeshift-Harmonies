@@ -53,6 +53,11 @@ body {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   }
 }
+.navbar{
+  position: relative;
+  margin-left: 10%;
+  margin-right: 10%;
+}
 .navbar a {
   position: relative;
   font-size: 18px;
