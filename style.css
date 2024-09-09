@@ -95,6 +95,21 @@ body {
   width: 40px;
 }
 
+.headerspace {
+  position: relative;
+  top: 0;
+  left: 0;
+  width: 100%;
+  padding: 50px;
+  margin-bottom: 7%;
+  border-color: #36454F;
+  background: transparent;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+
+}
 
 
 /**/
